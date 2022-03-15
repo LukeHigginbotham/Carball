@@ -13,6 +13,6 @@ MY TEAM:
   Carball will have team/car customization letting the users imagination dominate the field as well.
   Carball will have upgrades to help your players hit the ball harder and lower to increase the amount of shots on target as well as ground passes easier for your players to follow up on.
 
-
+Carball uses advanced waypoint mechanics to allow for certain players to attack the ball at the right moment resulting in efficient offensive plays and for a safer defensive strategy, usually keeping some of your players covering the net while others are chasing the ball.
 
 More to come on this readme.
