@@ -6,7 +6,7 @@ Take on the role as a teammanager as you build and upgrade your very own Carball
 Inspired by the hit game 'Rocket League' and its professional scene, Carball implements the names of some of the greatest players as well as the cars they use!
 
 GAMEMODES: 
-  Carball has an expedition gamemode where you can stake your in game 'coins' currency in order to double your coins after a win!
+  Expedition gamemode where you can stake your in game 'coins' currency in order to double your coins after a win!
   Tournaments are also in development for Carball as that would be the first goal to implement after official launch.
   
 MY TEAM:
